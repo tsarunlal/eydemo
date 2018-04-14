@@ -1,0 +1,3 @@
+echo this is a demo for ey
+echo auto trigger?????
+echo adding for rigger ....
